@@ -1,0 +1,5 @@
+// 코드 6-6 RxLifecycle 라이브러리 사용을 위한 환경 설정(app/build.gradle)
+
+'com.trello.rxlifecycle2:rxlifecycle:2.0.1'
+'com.trello.rxlifecycle2:rxlifecycle-android:2.0.1'
+'com.trello.rxlifecycle2:rxlifecycle-components:2.0.1'
